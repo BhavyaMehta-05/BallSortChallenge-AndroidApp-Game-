@@ -18,6 +18,6 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="jay here"/>
+        android:text="jayre"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
