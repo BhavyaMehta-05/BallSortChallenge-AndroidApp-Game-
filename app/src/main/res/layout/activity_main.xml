@@ -25,7 +25,8 @@
                 android:layout_height="wrap_content"
                 android:text="🪙 100"
                 android:textColor="#FFD700"
-                android:textSize="18sp"/>
+                android:textSize="18sp"
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/undoText"
@@ -35,7 +36,7 @@
                 android:text="🔄 5"
                 android:textColor="#00BCD4"
                 android:textSize="18sp"
-                android:textStyle="bold"/>
+                android:textStyle="bold" />
         </LinearLayout>
 
 
