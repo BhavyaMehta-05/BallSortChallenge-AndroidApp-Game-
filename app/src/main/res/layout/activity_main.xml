@@ -45,6 +45,9 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:text="Level 1"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+
              />
 
     </RelativeLayout>
