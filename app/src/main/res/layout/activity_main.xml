@@ -118,7 +118,11 @@
             android:layout_margin="4dp"
             android:onClick="restartGame"
             android:text=" Restart"
-             />
+            android:textSize="12sp"
+            android:textAllCaps="false"
+            app:icon="@android:drawable/ic_menu_rotate"
+            app:iconSize="18dp"
+            app:iconPadding="8dp" />
 
     </LinearLayout>
 </LinearLayout>
