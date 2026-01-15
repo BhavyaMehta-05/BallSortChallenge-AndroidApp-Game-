@@ -105,7 +105,11 @@
             android:layout_margin="4dp"
             android:onClick="undoMove"
             android:text=" Undo"
-             />
+            android:textSize="12sp"
+            android:textAllCaps="false"
+            app:icon="@android:drawable/ic_menu_revert"
+            app:iconSize="18dp"
+            app:iconPadding="8dp"/>
 
 
     </LinearLayout>
