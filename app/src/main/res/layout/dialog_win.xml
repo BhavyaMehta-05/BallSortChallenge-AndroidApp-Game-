@@ -14,5 +14,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Great job! You sorted them all."/>
+
+    <Button
+        android:id="@+id/btnNext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NEXT LEVEL"/>
 </LinearLayout>
 
