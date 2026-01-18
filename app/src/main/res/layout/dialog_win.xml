@@ -19,6 +19,8 @@
         android:id="@+id/btnNext"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="NEXT LEVEL"/>
+        android:text="NEXT LEVEL"
+        android:gravity="center"
+        android:padding="24dp"/>
 </LinearLayout>
 
