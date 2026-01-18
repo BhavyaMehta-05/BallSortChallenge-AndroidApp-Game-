@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
     // Game Constants
     static final int MAX_CAPACITY = 4;
     private static final String PREFS_NAME = "BallSortPrefs";
+    private static final String KEY_LEVEL = "current_level";
+    private static final String KEY_COINS = "user_coins";
 }
 
