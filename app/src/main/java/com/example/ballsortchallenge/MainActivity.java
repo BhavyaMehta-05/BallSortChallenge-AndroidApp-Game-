@@ -11,5 +11,7 @@ import androidx.core.view.WindowInsetsCompat;
 public class MainActivity extends AppCompatActivity {
 
     // Game Constants
+    static final int MAX_CAPACITY = 4;
+    private static final String PREFS_NAME = "BallSortPrefs";
 }
 
