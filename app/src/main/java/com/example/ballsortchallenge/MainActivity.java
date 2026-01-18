@@ -15,5 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private static final String PREFS_NAME = "BallSortPrefs";
     private static final String KEY_LEVEL = "current_level";
     private static final String KEY_COINS = "user_coins";
+    private static final String KEY_LAST_CLAIM = "last_claim_date";
+    private static final String KEY_SOUND = "sound_setting";
 }
 
