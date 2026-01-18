@@ -21,6 +21,9 @@
         android:layout_height="wrap_content"
         android:text="NEXT LEVEL"
         android:gravity="center"
-        android:padding="24dp"/>
+        android:padding="24dp"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
 </LinearLayout>
 
