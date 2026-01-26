@@ -124,5 +124,16 @@
             app:iconSize="18dp"
             app:iconPadding="8dp" />
 
+        <Button
+            android:id="@+id/btnAddTube"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:backgroundTint="#FF9800"
+            android:onClick="addExtraTube"
+            android:text=" + Tube (50)"
+            android:textSize="12sp"
+            android:textAllCaps="false"
+            android:visibility="gone" />
     </LinearLayout>
 </LinearLayout>
